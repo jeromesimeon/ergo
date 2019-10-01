@@ -11,6 +11,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+
+
+**Note:** Version bump only for package @accordproject/ergo-test
+
+
+
+
+
 <a name="0.0.57"></a>
 ## [0.0.57](https://github.com/accordproject/ergo/compare/v0.0.48...v0.0.57) (2018-05-25)
 
