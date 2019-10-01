@@ -1,6 +1,6 @@
 {
   "name": "@accordproject/ergo-compiler",
-  "version": "0.20.0",
+  "version": "0.19.1",
   "description": "Ergo Compiler",
   "repository": {
     "type": "git",
@@ -83,5 +83,6 @@
     "branches": 70,
     "functions": 92,
     "lines": 93
-  }
+  },
+  "gitHead": "bc3ba49e1f8fb1d4864d8c75a5ea5485a011193a"
 }
